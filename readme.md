@@ -1,0 +1,1 @@
+For the navigation I used Flexbox, for the content of the site I used Grid Layout. Just trying to get a feel for how they both work.
